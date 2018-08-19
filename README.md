@@ -1,2 +1,2 @@
 # LeetCode
-> P98, Aug19, 99.94%
+> P98 Validate Binary Search Tree, Aug19, 99.94%
